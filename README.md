@@ -24,4 +24,4 @@ Qatar Computing Research Institute (QCRI), HBKU, Qatar
 }
 ```
 
-If you use this dataset, benchmark, or any part of this repository in your research, please cite the paper accordingly.
+If you use this dataset, benchmark, or any part of this repository in your research, please cite the paper accordingly. Thank you!
