@@ -21,7 +21,8 @@ Qatar Computing Research Institute (QCRI), HBKU, Qatar
 @inproceedings{mubarak2026nahw,
   title={Nahw: A Comprehensive Benchmark of Arabic Grammar Understanding, Error Detection, Correction, and Explanation},
   author={Mubarak, Hamdy and Hawasly, Majd and Mohamed, Abubakr},
-  booktitle={Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics},
+  booktitle={Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={6310--6328},
   year={2026}
 }
 ```
