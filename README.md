@@ -7,6 +7,8 @@ The benchmark covers theoretical and practical grammar knowledge in Modern Stand
 
 For a detailed description of the dataset construction, task hierarchy, evaluation setup, and experimental results, please refer to our paper:
 
+https://aclanthology.org/2026.eacl-long.296.pdf
+
 **Nahw: A Comprehensive Benchmark of Arabic Grammar Understanding, Error Detection, Correction, and Explanation**
 
 Hamdy Mubarak, Majd Hawasly, Abubakr Mohamed
